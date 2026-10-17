@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-43b8f3d8fb.quanshanjob.cn/sitemap.xml

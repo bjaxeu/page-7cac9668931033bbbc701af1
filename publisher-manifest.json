@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "4534ea7151d1a3a5b7f96594",
+  "owner": "bjaxeu",
+  "repo": "page-7cac9668931033bbbc701af1",
+  "title": "速云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7cac9668931033bbbc701af1",
+      "a": "速云",
+      "b": "",
+      "entity": "速云",
+      "brand": "速云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8e734595bacfbab6be35398703341df2f918c7af703c3c59d28af3723de6748a",
+      "content": {
+        "keyword1": "速云",
+        "keyword2": "",
+        "primary_entity": "速云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速云提供高速专线与流媒体解锁服务，覆盖基础版、旗舰版与团队版，适配多设备使用与团队组网需求。",
+          "AI_DESCRIPTION": "速云提供高速专线与流媒体解锁服务，覆盖基础版、旗舰版与团队版，适配多设备使用与团队组网需求。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background: #0a0a0a;color: #e0e0e0;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif;line-height: 1.8;font-size: 16px}\nmain {max-width: 960px;margin: 0 auto;padding: 0 24px}\nsection {padding: 64px 0;border-bottom: 1px solid #1f1f1f}\n.hero {padding-top: 80px;padding-bottom: 48px;border-bottom: none}\n.hero p {color: #b0b0b0;margin-bottom: 16px;max-width: 680px}\n.hero nav {margin-top: 32px;display: flex;flex-wrap: wrap;gap: 8px}\n.hero nav a {color: #0a0a0a;background: #ccff00;padding: 6px 14px;border-radius: 24px;text-decoration: none;font-size: 13px;font-weight: 600}\n.hero nav a:hover {background: #b3e600}\nh1 {color: #ffffff;font-size: 32px;font-weight: 800;margin-bottom: 24px;letter-spacing: -0.5px}\nh2 {color: #ccff00;font-size: 22px;font-weight: 700;margin-bottom: 24px}\nh3 {color: #ffffff;font-size: 17px;font-weight: 600;margin-bottom: 8px}\n.faq h3 {margin-bottom: 12px}\na {color: #ccff00}\nstrong {color: #ccff00}\n.anchor {color: #ccff00;text-decoration: none}\ntable {width: 100%;border-collapse: separate;border-spacing: 0;margin-top: 16px;background: #141414;border-radius: 16px;overflow: hidden;box-shadow: 0 4px 24px rgba(0,0,0,0.6);border: 1px solid #222}\nth, td {padding: 14px 12px;text-align: left;border-bottom: 1px solid #222;font-size: 14px;vertical-align: top}\nth {background: #1a1a1a;color: #ccff00;font-weight: 600}\ntd {color: #c0c0c0}\ntr:last-child td {border-bottom: none}\n.plan-card {background: #141414;border-radius: 16px;padding: 24px;margin-bottom: 20px;box-shadow: 0 4px 20px rgba(0,0,0,0.5)}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 24px 40px}\n.faq-item {padding-bottom: 16px;border-bottom: 1px solid #222}\n.steps {counter-reset: step}\n.steps ol {list-style: none;padding: 0}\n.steps li {counter-increment: step;padding: 14px 0 14px 48px;position: relative;border-bottom: 1px solid #1f1f1f;color: #c0c0c0;font-size: 15px}\n.steps li::before {content: counter(step);position: absolute;left: 0;top: 12px;width: 32px;height: 32px;background: #ccff00;color: #0a0a0a;border-radius: 50%;display: flex;align-items: center;justify-content: center;font-weight: 700;font-size: 14px}\n@media (max-width: 640px) {\n  .faq-grid {grid-template-columns: 1fr}\n  table {font-size: 13px}\n  th, td {padding: 10px 8px}\n}\n</style><main>\n<section class=\"hero\">\n<h1>速云</h1>\n<p>网络不该是瓶颈。速云聚焦线路质量与稳定性，用专线资源解决延迟、丢包和访问受限问题。不堆砌功能，只把连接这件事做扎实。</p>\n<p>从个人日常浏览到团队组网，速云提供分级的流量、设备与节点配置。每一档套餐对应明确的资源边界，不模糊、不虚标。</p>\n<nav>\n<a href=\"#plans\">查看套餐</a>\n<a href=\"#usage\">使用方式</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</section>\n\n<section class=\"plans\" id=\"plans\">\n<h2>套餐对比</h2>\n<p>三档套餐覆盖不同使用强度。流量、设备数与线路等级逐级递增。</p>\n<table>\n<thead>\n<tr>\n<th>对比项</th>\n<th>基础版</th>\n<th>旗舰版</th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月费</td>\n<td><strong>¥15/月</strong></td>\n<td><strong>¥35/月</strong></td>\n<td><strong>¥85/月</strong></td>\n</tr>\n<tr>\n<td>年付价格</td>\n<td>¥150/年</td>\n<td>¥350/年</td>\n<td>¥850/年</td>\n</tr>\n<tr>\n<td>月流量</td>\n<td>100GB</td>\n<td>300GB</td>\n<td>1000GB</td>\n</tr>\n<tr>\n<td>同时在线设备</td>\n<td>3 台</td>\n<td>5 台</td>\n<td>20 台</td>\n</tr>\n<tr>\n<td>节点池</td>\n<td>普通线路</td>\n<td>IPLC 专线 + 游戏加速</td>\n<td>VIP 高带宽节点</td>\n</tr>\n<tr>\n<td>流媒体解锁</td>\n<td>基础解锁</td>\n<td>全节点原生解锁</td>\n<td>全节点原生解锁</td>\n</tr>\n<tr>\n<td>工单支持</td>\n<td>标准响应</td>\n<td>7×24 优先</td>\n<td>专属客户经理</td>\n</tr>\n<tr>\n<td>企业路由定制</td>\n<td>—</td>\n<td>—</td>\n<td>支持</td>\n</tr>\n</tbody>\n</table>\n<p>旗舰版适合重度流媒体与游戏用户，团队版面向多人协作与小团队组网。</p>\n</section>\n\n<section class=\"usage\" id=\"usage\">\n<h2>使用方式</h2>\n<div class=\"steps\">\n<ol>\n<li>选择适合的套餐并完成订阅，账户即刻开通。</li>\n<li>在速云客户端导入订阅链接，或手动配置节点信息。</li>\n<li>根据使用场景选择节点：日常浏览选普通线路，流媒体与游戏切至 IPLC 专线。</li>\n<li>多设备用户在账户面板管理在线设备数，超出上限会提示踢出旧会话。</li>\n<li>遇到连接异常先切换节点，仍无法解决可提交工单，旗舰版及以上享优先处理。</li>\n</ol>\n</div>\n</section>\n\n<section class=\"faq\" id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-grid\">\n<article class=\"faq-item\">\n<h3>流量按自然月重置吗？</h3>\n<p>是的。每月订阅日对应日期重置流量配额，未用完的流量不结转至下月。</p>\n</article>\n<article class=\"faq-item\">\n<h3>可以随时升级套餐吗？</h3>\n<p>可以。升级时按剩余周期补差价，账户权益立即切换至新套餐，无需重新配置客户端。</p>\n</article>\n<article class=\"faq-item\">\n<h3>支持哪些客户端？</h3>\n<p>速云兼容主流代理协议，支持 Windows、macOS、Android、iOS 平台的常用客户端。导入订阅链接即可同步节点。</p>\n</article>\n<article class=\"faq-item\">\n<h3>IPLC 专线和普通线路有什么区别？</h3>\n<p>IPLC 为点对点专线，不经过公共网络中转，延迟更低、稳定性更高，适合游戏与实时通信。普通线路覆盖日常浏览与下载。</p>\n</article>\n<article class=\"faq-item\">\n<h3>团队版的企业定制路由怎么申请？</h3>\n<p>订阅团队版后联系专属客户经理，说明业务场景与目标区域，由技术团队评估并配置路由规则。</p>\n</article>\n<article class=\"faq-item\">\n<h3>试用或退款政策是怎样的？</h3>\n<p>速云暂不提供免费试用。如有线路质量问题可在订阅后 24 小时内提交工单，经核实后支持退款。</p>\n</article>\n</div>\n</section>\n\n<section>\n<h2>联系与说明</h2>\n<p>速云不对外公开节点 IP 列表与服务器日志策略细节，相关说明以工单回复为准。订阅前请确认本地网络环境与使用合规性。</p>\n<p>本页面内容仅供参考，套餐权益与价格以订阅时账户面板显示为准。</p>\n</section>\n</main>",
+          "hash": "a660b8d05c0a2d1c0be75c2d35d07eabc12b3504fcadae01e6bee4436606bc27",
+          "seo": {
+            "title": "速云 — 网络加速与线路服务",
+            "keywords": "速云,网络加速,专线,IPLC,流媒体解锁,代理服务",
+            "description": "速云提供高速专线与流媒体解锁服务，覆盖基础版、旗舰版与团队版，适配多设备使用与团队组网需求。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "6140",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "quanshanjob.cn",
+    "host": "p-43b8f3d8fb.quanshanjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "769fcc3c64571d97bc1734956320bad7c749ec879bddf688d231f896727d9ef0",
+    "sitemap.xml": "3d646a9f31fe30a688735729cd49ec6b7b0b517f3b5f4c7d8ed9149ade92997c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fc020e86b78ca16846bd61d308a5a1ef60e66493db37ba66a3032f6d4ccdf9b0",
+    "robots.txt": "f3866b54f8e9360819bb781605161668179e9f82d15312497d49a64c39ae43f1",
+    "3d31cf7b1472ee018e2b9b114714cac1.txt": "6489e4f1de0a234368259c998d612ad8cebf75c2095bb2e4278ba4cbc5231ebd"
+  },
+  "revision": "7ab2828548d91e79e1dc6f4694880987a9b2134337aed830e8e482caaa8df510"
+}
